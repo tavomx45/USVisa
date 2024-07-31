@@ -32,6 +32,8 @@ list_of_files = [
     "setup.py",
     "config/model.yaml",
     "config/schema.yaml",
+    "data/raw/.gitkeep",
+    "data/processed/.gitkeep",
 ]
 
 for filepath in list_of_files:
